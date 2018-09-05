@@ -1,0 +1,159 @@
+body {
+	font-family: 'Carrois Gothic';
+}
+#first_row {
+	background-image: url(../img/spatter_test.jpg);
+}
+.first_second_row {
+	background-image: url(../img/shoes_1.jpg);
+	height: 500px;
+	width: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.palabras_img {
+	position: absolute;
+    top: 30%;
+    left: 16%;
+    font-weight: bold;
+    font-size: 80px;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+.botones_1 {
+	position: absolute;
+    top: 50%;
+    left: 20%;
+}
+.w100 {
+	width: 100%;
+}
+.iveb {
+	border-style: solid;
+	border-color: black;
+	border-width: 10px;
+}
+.px {
+	padding-right: 30px;
+	padding-left: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.px0
+{
+	padding-right: 50px;
+	background-color: white;
+}
+.px1 {
+	padding-right: 30px;
+	padding-left: 50px;
+}
+.px2 {
+	padding-right: 30px;
+	padding-left: 10px;
+}
+.px3 {
+	padding-right: 30px;
+	padding-left: 50px;
+}
+.font_small {
+	font-size: 30px;
+	text-decoration: underline;
+	color: black;
+}
+.font_big {
+	font-size: 80px;
+	font-weight: bold;
+	color: black;
+}
+.font_bla {
+	font-size: 30px;
+	color: black;
+}
+#second_row {
+	background-image: url(../img/spatter_2.jpg);
+}
+.second_second_row {
+	background-image: url(../img/row2_1.jpg);	
+	height: 500px;
+	width: 100px;
+	background-position: center;
+	background-repeat: no-repeat;
+	/**display: inline;
+	margin-left: 30px;
+	margin-right: -0px;**/
+}
+.palabras_img_2 {
+	text-align: left;
+	font-weight: bold;
+    font-size: 100px;
+    color: white;
+    text-shadow: 2px 2px black;
+    line-height: 130px;
+    margin-left: 20px;
+}
+.botones_2 {
+	text-align: left;
+	margin-left: 20px;
+}
+#third_row {
+	background-image: url(../img/spatter_3.jpg);
+}
+.font_2 {
+	font-size: 60px;
+	font-weight: bold;
+	line-height: 60px;
+	color: black;
+}
+.font_2_1 {
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+.font_2_1_1 {
+	font-variant: small-caps;
+	text-decoration: underline;
+	font-size: 15px;
+	font-weight: bold;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: black;
+
+}
+hr {
+	display: block;
+	border-color: black;
+	border-width: 5px;
+}
+.main_bottom {
+	padding-right: 65px;
+	padding-left: 65px;
+}
+.customer {
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 25px;
+}
+.left_main_bottom {
+	border-bottom-style: solid;
+	border-bottom-color: black;
+}
+.right_main_bottom {
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	margin-left: 25px;
+}
+.btn {
+	background-color: black;
+	color: white;
+}
+.boton_img {
+	padding-left: 0px;
+}
+.final_box {
+	line-height: 30px;
+	padding-bottom: 75px;
+}
